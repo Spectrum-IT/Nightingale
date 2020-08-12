@@ -14,7 +14,7 @@
     "mongoose": "~3.8.8",
     "spew": "0.0.2",
     "cookie-parser": "~1.0.1",
-    "morgan": "~1.0.0",
+    "morgan": "~1.10.0",
     "body-parser": "~1.0.2",
     "async": "~0.7.0",
     "yamljs": "~0.1.4",
