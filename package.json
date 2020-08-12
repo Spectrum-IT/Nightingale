@@ -11,7 +11,7 @@
     "coffee-script": "~1.7.1",
     "passport-twitter": "~1.0.2",
     "express": "~4.0.0",
-    "mongoose": "~3.8.8",
+    "mongoose": "~5.9.28",
     "spew": "0.0.2",
     "cookie-parser": "~1.0.1",
     "morgan": "~1.0.0",
